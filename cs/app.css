@@ -1,0 +1,95 @@
+.carousel-caption{
+    bottom: 300px;
+    text-align:center ;
+    
+
+}
+.yuk{
+    margin-left:1150px;
+    z-index:10;
+    position:fixed; 
+    top:632px;
+    border: gray;
+     left:140px; 
+    margin-top:-40px;
+   
+    }
+    .card:hover{
+        background-color: gray;
+    }
+    * {
+  box-sizing: border-box;
+  border: #745cf9;
+}
+
+
+form.example input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid #745cf9;
+  float: left;
+  width: 80%;
+  background: #f1f1f1;
+}
+
+
+form.example button {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  background:#f1f1f1;
+  color: white;
+  font-size: 17px;
+  border: 1px solid #745cf9;
+  border-left: none;
+  cursor: pointer;
+}
+
+form.example button:hover {
+  background: #745cf9;
+}
+
+
+form.example::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+ul {
+    list-style-type: none;
+    color: #8c979e;
+    padding-left: 0;
+    }
+    ol {
+   color: #8c979e;
+        }
+      span{
+        background-color: #77a464;
+     
+      }
+   .cont{
+   margin-top: -1300px;
+     margin-left: 900px;
+     max-width: 800px;
+   }
+   .contt{
+    margin-top: -50px;
+      margin-left: 900px;
+      max-width: 800px;
+    }
+    .ll{
+  margin-left: 800px;
+  margin-top: -400px;
+  width: 300px;
+    }
+    .vv{
+      width: 300px;
+      margin-top: -400px;
+      margin-left: 900px;
+    }
+    article{
+      background-image:url(https://colorlib.com/shapely/wp-content/uploads/sites/12/2016/12/photo-1452723312111-3a7d0db0e024.jpg);
+      width: 1400px;
+    color:white;
+    }
+ 
